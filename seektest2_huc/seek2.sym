@@ -1,0 +1,1555 @@
+Label				Addr	Bank
+-----				----	----
+_scan_map_table.3		cf50	 80
+	.x2			cfcc	 80
+	.l4			cfa2	 80
+	.l3			cf91	 80
+	.l2			cf80	 80
+	.x1			cfb2	 80
+	.l1			cf6f	 80
+_bm_disable			da1d	 80
+_mov32.sub			d695	 80
+	.l1			d697	 80
+SIZE_16x64			0030	 f0
+LL30				b42d	 84
+	.x01351			b441	 84
+LL28				b399	 84
+	.x01327			b3ad	 84
+_cd_trkinfo.4			dc83	 80
+_gfx_point.2			d65e	 80
+cd_subrd			e027	 f0
+_bm_errno			d992	 80
+mapwrap				26f9	 f8
+ARG_REG				0001	 f0
+__ldd_b				0000	 f0
+mapbat_top			26fe	 f8
+ad_write			e039	 f0
+satb_addr			2214	 f0
+psg_noise			0807	 f0
+_put_index			b2d7	 84
+	.x01291			b2eb	 84
+gfx_getaddr			af63	 81
+ugt_y1				c8df	 80
+	.gt_end			c8ee	 80
+	.gt_must_test_lobyte	c8e8	 80
+joybuf				2681	 f8
+irq1_jmp			2202	 f0
+ac_identver_h			1afe	 f0
+DEVELO				0000	 f0
+_mouse_y			da7a	 80
+_rti				c1ee	 80
+SUPER_CD			0002	 f0
+psg_lfofreq			0808	 f0
+__spr_max			201a	 f8
+_strncmp.3			c6c3	 80
+	.x_00140		c6e7	 80
+	.x_00139		c6e1	 80
+	.out			c6fa	 80
+	.plus			c6d0	 80
+	.cont			c6d7	 80
+	.minus			c6d3	 80
+	.cmplp			c6c7	 80
+ad_stat				e045	 f0
+setbgmap			0000	 f0
+LL65				ab2d	 85
+_set_color_rgb.4		d3f3	 80
+PSG_DCNT			0014	 f0
+ex_irqon			e084	 f0
+bm_free				e04b	 f0
+zp_ptr1				2012	 f8
+_cd_getver			dde2	 80
+CDPLAY_REPEAT			0001	 f0
+_bcd_set.2			d743	 80
+sdiv_end			cb1c	 80
+joytmp6				26ac	 f8
+PSG_MSTOP			000e	 f0
+__submi				0000	 f0
+_put_string.main		cefd	 80
+	.x_00270		cf2a	 80
+	.l2			cf14	 80
+	.l1			cf0d	 80
+	.l3			cf2a	 80
+_dl				20fe	 f0
+LL31				b4be	 84
+LL29				b4be	 84
+LL0				4000	 82
+_ad_stop			ddf8	 80
+_joy				da41	 80
+msflag				29ba	 f8
+__subw				0000	 f0
+_fade_color.2			d3ae	 80
+cdrom_err_load			402a	 80
+	.error			4067	 80
+	.load_cd_ovl		4034	 80
+PSG_FM				0007	 f0
+spr_pal				0000	 f0
+_ah				20f9	 f0
+_line_color			29b7	 f8
+cd_pause			e018	 f0
+NO_FLIP_X			0000	 f0
+ac_base1_h			1a04	 f0
+__comw				0000	 f0
+_line_currx			29aa	 f8
+getA_ult			c890	 80
+lib2_load_bat			a67a	 81
+	.l3			a693	 81
+	.l2			a683	 81
+	.l1			a67e	 81
+__ldb_s				0000	 f0
+LL66				ab45	 85
+mapctablebank			26f6	 f8
+_bank_base			0080	 f0
+_show_target			a7ec	 84
+_start_pos			31d5	 f8
+delay240			b4cc	 81
+	.lp			b4d0	 81
+_joybuf				da59	 80
+_joytrg				da49	 80
+_vsync				cf2f	 80
+	.l1			cf35	 80
+_rndptr				2777	 f8
+ad_read				e036	 f0
+sprc_len			2225	 f0
+asl				c9bc	 80
+	.asl_begin		c9cc	 80
+	.asl_end		c9d5	 80
+XRES_SHARP			0000	 f0
+color_reg_h			0403	 f0
+video_data_h			0003	 f0
+LL32				b4be	 84
+LL1				a2aa	 84
+lib2_bm_write.4			b0be	 81
+	.l2			b0d8	 81
+	.l1			b0cd	 81
+	.ok			b0f1	 81
+	.x1			b0fc	 81
+eqzp				c858	 80
+	.x1_eq			c867	 80
+	.x_ne			c865	 80
+VADDR_INC_32			0008	 f0
+lsrw				0000	 f0
+__spr_flag			201b	 f8
+sprptr				2216	 f0
+START_BANK			0000	 f0
+VADDR_INC_1			0000	 f0
+_fade_color.3			d3ae	 80
+	.l3			d3e3	 80
+	.l2			d3cf	 80
+	.l1			d3be	 80
+	.l5			d3ed	 80
+	.l4			d3ea	 80
+SIZE_16x32			0010	 f0
+_result				31de	 f8
+_bcd_init.clear			d737	 80
+	.l2			d73d	 80
+set_xres			c54a	 80
+spryh				2218	 f0
+NO_FLIP_Y			0000	 f0
+__orw				0000	 f0
+_line_curry			29ac	 f8
+lib2_load_palette		a630	 81
+	.loop_a			a659	 81
+ex_getver			e05a	 f0
+spr_ctrl			0000	 f0
+psg_freqhi			0803	 f0
+irq_m				20f5	 f0
+mousneg				da77	 80
+clock_tt			2692	 f8
+PSG_CONT			0012	 f0
+ac_identflag			1aff	 f0
+LL67				aba0	 85
+_line_adjust			29b4	 f8
+_memcmp.3			c66a	 80
+	.x_00131		c68a	 80
+	.x_00130		c684	 80
+	.plus			c677	 80
+	.cont			c67e	 80
+	.minus			c67a	 80
+	.cmplp			c66e	 80
+hdw				2714	 f8
+_font_color			27a7	 f8
+__stbps				0000	 f0
+_target_data			29d1	 f8
+cd_dinfo			e021	 f0
+bgc_ptr				2220	 f0
+__andwi				0000	 f0
+_bm_read.4			d9c3	 80
+mapbat_bottom			26ff	 f8
+_ram_hdwr_tia_rts		2709	 f8
+colorport			0400	 f0
+LL33				b193	 85
+LL2				a674	 84
+_bm_testram			d81f	 80
+	.l3			d838	 80
+	.l2			d830	 80
+	.l1			d821	 80
+mapwidth			26ea	 f8
+rcr_on				c328	 80
+BGMAP_SIZE_32x64		0004	 f0
+__lbeq				0000	 f0
+_clear_index			b242	 84
+ma_mul8s			e0c0	 f0
+joyold				2232	 f0
+vsync_hook			2208	 f0
+_map_get_tile.2			d4d7	 80
+lezp				c9ab	 80
+rcr_off				c338	 80
+_decw				0000	 f0
+bhi				0000	 f0
+_rndseed			2779	 f8
+ma_sin				e0cf	 f0
+sprnl				221b	 f0
+rorw				0000	 f0
+CDFADE_PCM6			0008	 f0
+_scroll				d530	 80
+_spr_x				d287	 80
+ex_setrcr			e0a8	 f0
+sub				0000	 f0
+LL70				ac34	 85
+	.x01934			aeb7	 85
+LL68				ac05	 85
+	.x01847			ac19	 85
+ex_vmode			e075	 f0
+SOFT_RESET			0006	 f0
+JOY_BITUP			0004	 f0
+bram_lock			1803	 f0
+scr_h				2246	 f8
+vdc_crh				20f4	 f0
+lib2_mousread			b437	 81
+	.exit			b4cb	 81
+	.loop1			b439	 81
+_farpeekw.1			db33	 80
+_bm_getptr.2			d99f	 80
+_bm_open			d9f9	 80
+gezp				c956	 80
+ac_port				1a00	 f0
+__stw_s				0000	 f0
+LL34				a02f	 85
+	.x01383			a043	 85
+LL3				a737	 84
+_init_satb			d393	 80
+	.l1			d395	 80
+le				c9a6	 80
+gtzp				c928	 80
+	.true			c932	 80
+	.false			c936	 80
+	.geta_ugt		c93a	 80
+HSR				0000	 f0
+_load_bat.4			c3a2	 80
+ram_vsync_hndl			26b5	 f8
+psg_bios			e0d8	 f0
+s_xh				273b	 f8
+joyold6				269d	 f8
+_edit_pos			31e2	 f8
+_random				db82	 80
+_font_base			27a5	 f8
+divu10				c714	 80
+	.l2			c722	 80
+	.l1			c71b	 80
+ac_identver_l			1afd	 f0
+s_work				2774	 f8
+__fbank				200d	 f8
+_limit_offset			aabc	 84
+	.x00992			aad8	 84
+_spr_y				d2a4	 80
+smul				ca10	 80
+LL69				ac1c	 85
+LL71				b031	 85
+_ad_reset			ddf4	 80
+_cd_loaddata.4			dd20	 80
+	.error			ddbe	 80
+	.read			dd97	 80
+	.less2000		dd8e	 80
+	.loop			dd57	 80
+_ram_hdwr_tia_size		2707	 f8
+VI_CLS				0004	 f0
+_memcpy.3			c642	 80
+	.x_00125		c656	 80
+	.x_00124		c650	 80
+	.cpylp			c646	 80
+JOY_BITVI			0003	 f0
+_reset_satb			d393	 80
+_line_deltax			29ae	 f8
+mulu32				c72a	 80
+	.next			c76f	 80
+	.loop			c744	 80
+joytmp				26a7	 f8
+joy6				2693	 f8
+_adcw				0000	 f0
+_cx				20fc	 f0
+__addwi				0000	 f0
+LL35				a046	 85
+LL4				a7eb	 84
+_spr_pal			d305	 80
+JOY_IV				0002	 f0
+ma_mul8u			e0bd	 f0
+HUC				0001	 f0
+smod				cb63	 80
+PSG_MSTAT			000c	 f0
+ex_memopen			e0de	 f0
+ex_getfnt			e060	 f0
+usr_jmptbl			2200	 f0
+_al				20f8	 f0
+_clock_tt			daee	 80
+sdiv_no_invert_secondary	cb01	 80
+BGMAP_SIZE_32x32		0000	 f0
+ac_base1_l			1a02	 f0
+timer_cnt			0c00	 f0
+_si				20ee	 f0
+_rcr_on				c328	 80
+ex_setred			e0ab	 f0
+psg_ch				0800	 f0
+LL72				af05	 85
+fntcpy				0000	 f0
+ac_data1_alt			1a01	 f0
+timerport			0c00	 f0
+__subws				0000	 f0
+_call_bank			0086	 f0
+_line_deltay			29b0	 f8
+ule				c9b1	 80
+JOY_BITV			0002	 f0
+decw				0000	 f0
+ARG_LABEL			0006	 f0
+color_reg_l			0402	 f0
+video_data_l			0002	 f0
+LL36				a05e	 85
+LL5				a89f	 84
+_get_joy_events.sub		dab3	 80
+ma_mul16u			e0c3	 f0
+_tstw				0000	 f0
+ac_offset1_l			1a05	 f0
+cd_buf				29c1	 f8
+CDTRK_AUDIO			0000	 f0
+color_cmd			221f	 f0
+_cd_numtrk			dc65	 80
+	.err			dc7f	 80
+mapbank				26e7	 f8
+_main				a000	 85
+VI_GFONT			000d	 f0
+ex_hmode			e078	 f0
+bg_y1				2210	 f0
+ac_base1_m			1a03	 f0
+_ad_stat			ddfc	 80
+bat_height			270c	 f8
+s_bottom			2764	 f8
+ex_bcdbin			e0b7	 f0
+spryl				2217	 f0
+__asrw				0000	 f0
+_ram_hdwr_tia_src		2703	 f8
+ovl_running			26b1	 f8
+timer_ctrl			0c01	 f0
+LL73				b184	 85
+_gfx_plot.3			d64c	 80
+_ram_hdwr_tia_dest		2705	 f8
+VI_GINIT			0000	 f0
+_sub32.2			d6b2	 80
+	.l1			d6ba	 80
+_satb				27a9	 f8
+joycallback			2688	 f8
+cd_read				e009	 f0
+set_bgpal			0000	 f0
+__orws				0000	 f0
+_cd_pause			dbb3	 80
+_bm_mpr4			29b8	 f8
+lib2_load_map_8			a7b0	 81
+	.l6			a81f	 81
+	.l4			a80a	 81
+	.l3			a7e5	 81
+	.l5			a81d	 81
+	.l1			a7be	 81
+	.l2			a7c3	 81
+__lbra				0000	 f0
+LL37				a1c9	 85
+LL6				aabb	 84
+ac_offset1_m			1a06	 f0
+udiv				cb1e	 80
+	.sdiv_end		cb4b	 80
+	.sdiv_begin		cb33	 80
+hsync_hook			220a	 f0
+__ldd_i				0000	 f0
+lib2_set_xres			a9dd	 81
+	.xres_err		aa7d	 81
+	.xres_putit		aa47	 81
+	.hde_tab		aa8b	 81
+	.hds_tab		aa88	 81
+	.hsw_tab		aa85	 81
+	.vce_tab		aa82	 81
+	.x_00104		aa13	 81
+	.x_00102		aa06	 81
+	.xres_calc		aa16	 81
+remap_data			c37b	 80
+	.l1			c38f	 80
+VI_PUTFONT			000e	 f0
+__lbne				0000	 f0
+gt				c8b4	 80
+	.gt_primary_minus	c8c4	 80
+ex_setvec			e05d	 f0
+bg_y2				2212	 f0
+setvwaddr			0000	 f0
+lib2_gfx_line.5			abc8	 81
+	.x_00439		ae26	 81
+	.ylppos			ae1e	 81
+	.ylp2			ae28	 81
+	.x_00436		adee	 81
+	.ylp1			adb2	 81
+	.x_00431		adb2	 81
+	.x_00421		ad30	 81
+	.xlp3			ad32	 81
+	.x_00419		ad10	 81
+	.xlp2			ad10	 81
+	.xlppos			ad08	 81
+	.out			ae51	 81
+	.x_00417		acf0	 81
+	.xlp1			acb9	 81
+	.x_00412		acb9	 81
+	.xbiglp			ac62	 81
+	.ybiglp			ad5b	 81
+	.x_00404		ac62	 81
+	.x_00403		ac5d	 81
+	.l3			ac4f	 81
+	.l2			ac11	 81
+	.l1			abfd	 81
+	.x_00391		abd5	 81
+ma_atni				e0d5	 f0
+JOY_BITDN			0006	 f0
+spr_set				0000	 f0
+_farpeekb.1			db22	 80
+_set_joy_callback.4		da81	 80
+	.l1			daa6	 80
+lib2_load_font			a95e	 81
+	.t5			a9c2	 81
+	.t4			a9be	 81
+	.t3			a9b0	 81
+	.t2			a9ac	 81
+	.t1			a9a1	 81
+	.p5			a998	 81
+	.p4			a994	 81
+	.p3			a986	 81
+	.p2			a982	 81
+	.p1			a977	 81
+	.copy			a976	 81
+	.l2			a970	 81
+	.l1			a969	 81
+joytrg				222d	 f0
+JOY_LEFT			0080	 f0
+tstw				0000	 f0
+adcw				0000	 f0
+__stb_s				0000	 f0
+__addw				0000	 f0
+LL74				b163	 85
+	.x02041			b177	 85
+video_reg			0000	 f0
+_cd_execoverlay			dccf	 80
+	.error			dcd9	 80
+_peekw				db16	 80
+lib2_bm_disable			b268	 81
+JOY_V				0004	 f0
+videoport			0000	 f0
+vdc_crl				20f3	 f0
+_ac_exists			dde8	 80
+	.true			ddf2	 80
+CDPLAY_NORMAL			0002	 f0
+asr				c9e5	 80
+	.asr_begin		c9f5	 80
+	.asr_end		ca00	 80
+clock_hh			268f	 f8
+JOY_SEL				0004	 f0
+load_sprites			0000	 f0
+__stbi_s			0000	 f0
+LL40				a38b	 85
+	.x01517			a39f	 85
+LL38				a2ea	 85
+	.x01502			a33f	 85
+	.x01497			a32b	 85
+	.x01492			a318	 85
+	.x01486			a2f7	 85
+LL7				a9c2	 84
+	.x00955			a9de	 84
+_bm_id				d997	 80
+_gfx_line.5			d670	 80
+_put_char.2			ce23	 80
+_get_map_width			d095	 80
+_load_font.2			cd9a	 80
+	.x_00245		cda7	 80
+_farpeekw.sub			db4a	 80
+	.l1			db59	 80
+s_xl				2733	 f8
+TIMER				0002	 f0
+lblo				0000	 f0
+ARG_INDIRECT			0004	 f0
+_get_color.1			d3a5	 80
+mapaddr				26e8	 f8
+setcolor			0000	 f0
+divu8				c6fd	 80
+	.l2			c70c	 80
+	.l1			c705	 80
+ovlentry			c000	 80
+cd_play				e012	 f0
+_load_vram.3			c3f1	 80
+lbhs				0000	 f0
+CDROM				0001	 f0
+LL75				b184	 85
+cdtemp_savbnk60			29c8	 f8
+_bm_enable			da0b	 80
+_put_tile_16			d458	 80
+	.x_00358		d4cc	 80
+	.x_00353		d49f	 80
+	.x_00351		d48f	 80
+_put.xy				cdff	 80
+sprah				221e	 f0
+spr_x				0000	 f0
+_set_screen_size		d57b	 80
+_rndzp				2014	 f8
+lbpl				0000	 f0
+LL39				b190	 85
+LL8				a8d3	 84
+	.x00918			a8e5	 84
+	.x00916			a8db	 84
+_put_char.3			ce18	 80
+_strcmp.2			c69f	 80
+	.x_00136		c6bf	 80
+	.x_00135		c6b9	 80
+	.out			c6c1	 80
+	.plus			c6a8	 80
+	.cont			c6af	 80
+	.minus			c6ab	 80
+	.cmplp			c69f	 80
+LL41				a368	 85
+	.x01510			a37b	 85
+_bm_free			d87f	 80
+	.ok			d8b2	 80
+	.err			d8be	 80
+_load_font.3			cda7	 80
+	.l2			cdbd	 80
+	.l1			cdb6	 80
+cd_search			e015	 f0
+HSYNC				0005	 f0
+color_reg			0402	 f0
+__ldw				0000	 f0
+_rec_h				29ce	 f8
+ugt				c8dd	 80
+CHAR				0000	 f0
+lbcc				0000	 f0
+map				0000	 f0
+_bh				20fb	 f0
+CDTRK_DATA			0004	 f0
+hsw				2712	 f8
+scroll				0000	 f0
+_set_bgpal			0000	 f0
+_init				407a	 80
+VI_BOXF				0009	 f0
+FLIP_X				0008	 f0
+writevram			d5a5	 80
+	.x_00366		d5c1	 80
+	.x_00365		d5b6	 80
+_gfx_pal			29a9	 f8
+_disp_on			de30	 80
+lib2_mousinit			b3a8	 81
+	.mous			b42d	 81
+	.l1			b417	 81
+	.loop1			b408	 81
+FONT_VADDR			0800	 f0
+__incw_s			0000	 f0
+LL76				b184	 85
+CDPLAY_MUTE			0000	 f0
+rndh				224a	 f0
+spr_y				0000	 f0
+batcpy				0000	 f0
+stwz				0000	 f0
+MAGICKIT			0001	 f0
+_clock_hh			dadf	 80
+ac_identbase			1afd	 f0
+__addmi				0000	 f0
+LL9				aabb	 84
+cdtemp_l			29c5	 f8
+CDFADE_ADPCM2			000e	 f0
+_farmemget.3			db5c	 80
+lib2_bm_create.2		b0fd	 81
+	.ok			b1b3	 81
+	.l3			b19a	 81
+	.l2			b193	 81
+	.sum			b1a2	 81
+	.l1			b176	 81
+	.x_00544		b13e	 81
+	.x1			b108	 81
+	.x2			b10a	 81
+	.go			b116	 81
+_strncpy.3			c616	 80
+	.x_00120		c62c	 80
+	.x_00119		c626	 80
+	.out			c641	 80
+	.lp			c61a	 80
+_ram_hdwr_tia			2702	 f8
+PSG_SSTOP			000f	 f0
+cd_fade				e02d	 f0
+_nb_bank			0007	 f0
+LL42				a355	 85
+_set_font_color.2		ccfc	 80
+random				c810	 80
+	.l1			c81e	 80
+_vdc				277d	 f8
+_add32.2			d69f	 80
+	.l1			d6a7	 80
+_xres				0100	 f0
+soft_reset			2284	 f8
+PSG_TEMPO			000a	 f0
+SIZE_32x16			0001	 f0
+lbmi				0000	 f0
+lib2_bm_open			b1bd	 81
+	.x4			b23c	 81
+	.ok			b21a	 81
+	.next			b21f	 81
+	.l2			b202	 81
+	.x_00555		b1fd	 81
+	.x3			b238	 81
+	.x_00553		b1f1	 81
+	.x1			b22e	 81
+	.l1			b1ca	 81
+	.x2			b230	 81
+umul8				cab0	 80
+	.l2			cac3	 80
+	.l1			cab7	 80
+lib2_load_map_16		a6af	 81
+	.x_00054		a7ad	 81
+	.x_00053		a7a1	 81
+	.x_00051		a790	 81
+	.x_00046		a763	 81
+	.x_00044		a753	 81
+	.l6			a72d	 81
+	.x_00038		a6f3	 81
+	.x_00037		a6ed	 81
+	.l4			a6f3	 81
+	.l3			a6e7	 81
+	.l2			a6ce	 81
+	.l5			a711	 81
+	.l1			a6c0	 81
+usrvec				2200	 f0
+FLIP_Y				0080	 f0
+_add_num			4148	 82
+_rts				c1ed	 80
+ex_colorcmd			e0e4	 f0
+JOY_III				0001	 f0
+_direction			31e3	 f8
+_put_raw.main			ce56	 80
+ltzp				c8ff	 80
+	.false			c909	 80
+	.true			c90d	 80
+	.geta_ult		c911	 80
+ex_rcroff			e081	 f0
+_cd_unpause			dbb9	 80
+_mouse_disable			da66	 80
+_map_put_tile.3			d4e1	 80
+__calls				0000	 f0
+ad_play				e03c	 f0
+JOY_UP				0010	 f0
+lbeq				0000	 f0
+cdtemp_m			29c6	 f8
+CD_MSF				0040	 f0
+_set_map_data.1			cff1	 80
+	.x_00289		d035	 80
+	.x_00287		d016	 80
+	.l1			d04d	 80
+lib2_put_number.3		ab62	 81
+ex_bgoff			e08d	 f0
+LL43				a368	 85
+_put_string.2			cef8	 80
+rcr_init			c2a6	 80
+	.r3			c2ba	 80
+loadprog			40be	 80
+	.x_00008		40ee	 80
+	.x_00005		40c8	 80
+rolw				0000	 f0
+AC_IDENT			0051	 f0
+prep_rdsect			ddcb	 80
+_bm_error			29b9	 f8
+_put_tile.2			d42b	 80
+_spr_set			d21e	 80
+	.l1			d22a	 80
+	.l2			d23b	 80
+bat_width			270a	 f8
+rcr_set				c2e8	 80
+_ad_read.4			de1e	 80
+_srand				db6e	 80
+setvdc				cc62	 80
+	.l2			cc8a	 80
+	.l1			cc72	 80
+	.l3			cc98	 80
+ex_binbcd			e0b4	 f0
+VI_CASHCLR			0001	 f0
+randomize			c7a7	 80
+	.l1			c805	 80
+	.x_00168		c7fb	 80
+	.x_00167		c7ed	 80
+	.x_00166		c7df	 80
+ex_rcron			e07e	 f0
+_spr_get_x			d296	 80
+___case				cba8	 80
+	.x00225			cc29	 80
+	.end_case_default	cc44	 80
+	.x00217			cbe1	 80
+	.begin_case		cbc4	 80
+cd_subq				e01e	 f0
+grp_bios			e0db	 f0
+ARG_IMMED			0002	 f0
+lib2_readjoy			b4f3	 81
+	.hook			b5aa	 81
+	.l5			b596	 81
+	.l4			b586	 81
+	.bitmsk			b5a5	 81
+	.l3			b56d	 81
+	.l2a			b543	 81
+	.type6			b53b	 81
+	.notswap		b52e	 81
+	.l2			b51a	 81
+_vreg				cf38	 80
+	.l1			cf3f	 80
+sdiv_no_invert_primary		cadc	 80
+s_top				275b	 f8
+JOY_VI				0008	 f0
+BGMAP_SIZE_128x64		0007	 f0
+ac_addoffset1			1a0a	 f0
+irq_disable			1402	 f0
+lib2_put_number.4		ab57	 81
+_strcpy.2			c5c8	 80
+	.x_00111		c5da	 80
+	.x_00110		c5d4	 80
+	.out			c5dc	 80
+	.cpylp			c5c8	 80
+setxres				0000	 f0
+_hex1				31d3	 f8
+LL44				a388	 85
+_put_string.3			ceed	 80
+mapbat_ptr			26fa	 f8
+mapnbtile			26f4	 f8
+PSG_WAVE			0005	 f0
+JOY_BITRT			0005	 f0
+FLIP_MASK			0088	 f0
+neg				0000	 f0
+_color_reg			0402	 f0
+_bcd_mov.2			d743	 80
+	.x1			d75a	 80
+_gfx_setbgpal			d5ce	 80
+_put_tile.3			d414	 80
+	.l1			d425	 80
+s_yh				274b	 f8
+CD_CURRPOS			00c0	 f0
+_set_map_data.main		d075	 80
+vdc_reg				20f7	 f0
+LL10				abde	 84
+set_bat_size			c55c	 80
+	.height			c58f	 80
+	.width			c587	 80
+__rcr_on			c32c	 80
+_sbcw				0000	 f0
+JOY_RIGHT			0020	 f0
+__ldd_s_w			0000	 f0
+__boolw				0000	 f0
+CD_SECTOR			0000	 f0
+_scroll_disable			d572	 80
+_spr_get_y			d2b4	 80
+mapctable			26f7	 f8
+irq_status			1403	 f0
+__farptr_i			0000	 f0
+_cd_status			dddb	 80
+load_font			c3df	 80
+spral				221d	 f0
+_set_sprpal			0000	 f0
+_sub_3digit			a2ba	 84
+bm_delete			e054	 f0
+vec_off				0000	 f0
+_addw				0000	 f0
+__andws				0000	 f0
+__ldwi				0000	 f0
+_set_map_data.3			d06f	 80
+ult_y1				c894	 80
+	.lt_end			c8a3	 80
+	.lt_must_test_lobyte	c89c	 80
+mousread			db9d	 80
+PSG_FDOUT			0013	 f0
+PSG_MVOFF			0011	 f0
+JOY_BITSEL			0002	 f0
+XRES_SOFT			0004	 f0
+_dx				20fe	 f0
+_hex2				31d4	 f8
+LL45				b184	 85
+hde				2715	 f8
+wait_vsync			de42	 80
+	.callback		deb2	 80
+	.t2			de8f	 80
+	.t1			de88	 80
+	.t3			deaf	 80
+	.x_00622		de67	 80
+	.l5			de5f	 80
+	.l4			de5c	 80
+	.l3			de54	 80
+	.l2			de53	 80
+	.l1			de48	 80
+ex_dspon			e096	 f0
+psg_freqlo			0802	 f0
+_rec_l				29d0	 f8
+irq_cnt				2241	 f0
+bhs				0000	 f0
+_bl				20fa	 f0
+LL11				abde	 84
+msbutt				b4d9	 81
+ma_cos				e0d2	 f0
+vreg				0000	 f0
+irqport				1400	 f0
+_offset				31d8	 f8
+smul_no_invert_primary		ca23	 80
+CD_PLAYMODE			003f	 f0
+_rand				db7a	 80
+_abs				d682	 80
+	.l1			d690	 80
+_spr_ctrl.2			d2f3	 80
+getvdc				cca4	 80
+	.l1			ccb0	 80
+calc_vram_addr			c453	 80
+	.s32			c464	 80
+	.s128			c46a	 80
+	.s64			c467	 80
+scr_mode			2244	 f8
+VADDR_INC_128			0018	 f0
+_spr_get_pal			d315	 80
+rndl				2249	 f0
+negw				0000	 f0
+__eorws				0000	 f0
+_gfx_init			d5d7	 80
+	.x_00376		d615	 80
+	.l3			d605	 80
+	.l2			d602	 80
+VI_PSET				0005	 f0
+blo				0000	 f0
+_set_map_data.4			d066	 80
+irq_storea			26b3	 f8
+_load_background		0000	 f0
+LL46				b184	 85
+CDFADE_ADPCM6			000a	 f0
+JOY_BITII			0001	 f0
+__stwp				0000	 f0
+_rec_m				29cf	 f8
+gfx_bittbl2			af5b	 81
+BGMAP_SIZE_128x32		0003	 f0
+lbne				0000	 f0
+ac_shftreg			1ae0	 f0
+lib2_farmemget.3		b316	 81
+	.l5			b3a7	 81
+	.l3			b37e	 81
+	.l2			b37c	 81
+	.l1			b368	 81
+	.l4			b384	 81
+	.t2			b35a	 81
+	.t1			b332	 81
+	.x_00580		b328	 81
+_put_tile_8			d436	 80
+smul_end			ca63	 80
+cmp_false			c87f	 80
+ex_dmamod			e09c	 f0
+bm_format			e048	 f0
+vsync				0000	 f0
+ac_shft_bits			1ae4	 f0
+LL12				aaef	 84
+	.x00999			ab01	 84
+	.x00997			aaf7	 84
+_gfx_clear			d61c	 80
+	.l4			d62d	 80
+	.l3			d62b	 80
+	.l2			d628	 80
+scroll_xh			271a	 f8
+PSG_SSTAT			000d	 f0
+vdc_dcr				2243	 f0
+_mouse_enable			da6c	 80
+_subw				0000	 f0
+joyport				1000	 f0
+maptiletype			26ee	 f8
+PSG_PC				0009	 f0
+CDFADE_CANCEL			0000	 f0
+__arg				31ff	 f8
+joybuf6				26a2	 f8
+rndm				224b	 f0
+__phw				0000	 f0
+_cd_fade			dbd7	 80
+rcr4				c300	 80
+FLIP_Y_MASK			0080	 f0
+sbcw				0000	 f0
+__addws				0000	 f0
+_bcd_init.2			d72a	 80
+	.l1			d731	 80
+set_write			c436	 80
+vsync_irq_ramhndlr		a600	 81
+irq_storeb			26b4	 f8
+LL47				a3ae	 85
+	.x01534			a3e7	 85
+	.x01529			a3d3	 85
+	.x01524			a3c0	 85
+	.x01522			a3b6	 85
+ad_trans			e033	 f0
+cd_reset			e003	 f0
+update_satb			0000	 f0
+color_data_h			0405	 f0
+__aslw				0000	 f0
+_get_joy_events.1		dab2	 80
+_bm_exist			d958	 80
+	.noerr			d96d	 80
+	.l1			d96b	 80
+__farptr_get			0000	 f0
+_bcd_add.2			d7aa	 80
+	.l3			d7f1	 80
+	.l4			d7f7	 80
+	.l2			d7e1	 80
+	.l1			d7da	 80
+	.x1			d7ef	 80
+s_cr				2753	 f8
+_tot				31fc	 f8
+LL13				b241	 84
+cd_super			26b2	 f8
+__lsrw				0000	 f0
+lib2_bm_enable			b240	 81
+	.x1			b253	 81
+	.l1			b245	 81
+add				0000	 f0
+addw				0000	 f0
+lib2_bm_checksum		b273	 81
+	.l3			b2a0	 81
+	.l2			b29b	 81
+	.l1			b290	 81
+DATA_BANK			0003	 f0
+_bcd_set.bcd			d78d	 80
+	.l2			d7a4	 80
+	.l1			d796	 80
+	.x1			d7a9	 80
+mapheight			26ec	 f8
+rcr5				c30e	 80
+mulu8				e0bd	 f0
+bat_hmask			270d	 f8
+setvraddr			0000	 f0
+LL50				a430	 85
+	.x01560			a457	 85
+	.x01555			a443	 85
+LL48				a3f8	 85
+	.x01547			a41f	 85
+	.x01542			a40b	 85
+_spr_pattern			d2c1	 80
+psg_driver			e0e1	 f0
+SPR_VRAM			0000	 f0
+subw				0000	 f0
+_get_joy_events.2		daa7	 80
+_bm_rawwrite.2			d931	 80
+	.err			d950	 80
+rand				c799	 80
+cd_exec				e00f	 f0
+_color_data			0404	 f0
+load_vram			c3f1	 80
+	.out			c416	 80
+	.l2			c40c	 80
+	.l1			c3fc	 80
+	.l3			c412	 80
+s_yl				2743	 f8
+ex_scrsiz			e069	 f0
+LL14				ae58	 84
+	.x01142			aeda	 84
+	.x01135			aea3	 84
+	.x01128			ae6c	 84
+vsync_cnt			2680	 f8
+vdc_mwr				2242	 f0
+__fgetb				0000	 f0
+_i				31fe	 f8
+_cd_loadvram.4			dcfe	 80
+ex_irqoff			e087	 f0
+stw				0000	 f0
+__ldb				0000	 f0
+_cmp32.2			d70e	 80
+	.l3			d726	 80
+	.l2			d720	 80
+	.l1			d714	 80
+_mul32.2			d6c5	 80
+srand				c773	 80
+	.exit			c798	 80
+PSG_PE				0008	 f0
+lib2_bm_setup_ptr		b2a9	 81
+	.ok			b30c	 81
+	.l2			b2d6	 81
+	.l1			b2ce	 81
+	.x1			b2d0	 81
+eq				c82a	 80
+	.eq_endyes		c836	 80
+	.eq_endno		c847	 80
+__notw				0000	 f0
+__farptr			0000	 f0
+bat_vmask			270e	 f8
+rcr6				c31e	 80
+font_table			c348	 80
+_satb_update			d32d	 80
+	.l3a			d371	 80
+	.l4			d391	 80
+	.l2			d33d	 80
+	.l3			d341	 80
+	.l1			d337	 80
+set_read			c419	 80
+mapbat_top_base			26fc	 f8
+LL51				a430	 85
+LL49				a3f8	 85
+_cd_reset			dbaf	 80
+hsync_irq_ramhndlr		a618	 81
+_clock_reset			daf3	 80
+putnum.main			ab67	 81
+	.l4			abb5	 81
+	.l2			abaf	 81
+	.l3			abb3	 81
+	.l1			ab95	 81
+	.l5			abc7	 81
+_line_xdir			29b6	 f8
+__remain			2016	 f8
+read_joypad			deb5	 80
+JOY_RUN				0008	 f0
+mapcpy				0000	 f0
+_ch				20fd	 f0
+_ax				20f8	 f0
+_bp				20ec	 f0
+LL15				ae55	 84
+GRP_FILL			0001	 f0
+PSG_PLAY			000b	 f0
+mshorz				29bc	 f8
+_bm_sizeof			d96e	 80
+	.l1			d98f	 80
+_cls.1				ccc8	 80
+	.l3			ccd9	 80
+	.l2			ccd6	 80
+_target				31db	 f8
+_spr_get_pattern		d2da	 80
+PSG_ON				0000	 f0
+FONT_BANK			0001	 f0
+setmap				0000	 f0
+_bcd_set.ascii			d75b	 80
+	.l4			d785	 80
+	.l3			d76c	 80
+	.l2			d769	 80
+	.l1			d75c	 80
+lt_primary_minus		c879	 80
+bgc_len				2222	 f0
+vdc_sr				20f6	 f0
+__call				0000	 f0
+lib2_gfx_plot.3			ae52	 81
+	.l4a			aeed	 81
+	.l4			aeea	 81
+	.l3a			aee1	 81
+	.l3			aede	 81
+	.l2a			ae8c	 81
+	.l2			ae89	 81
+	.l1a			ae80	 81
+	.l1			ae7d	 81
+_spr_show			d26c	 80
+	.l1			d27d	 80
+	.l2			d27e	 80
+ex_setdma			e0b1	 f0
+psg_lfoctrl			0809	 f0
+__swapw				0000	 f0
+cdtemp_bytes			29cc	 f8
+nezp				c995	 80
+	.x1_eq			c9a4	 80
+	.x_ne			c9a2	 80
+VI_SYMBOL			000f	 f0
+LL52				a775	 85
+	.x01676			a79c	 85
+	.x01671			a788	 85
+PSG_ASTOP			0010	 f0
+ad_cplay			e03f	 f0
+_cd_trktype			dca5	 80
+	.err			dccb	 80
+	.go			dcbd	 80
+	.discnottrk		dcbb	 80
+readvram			d58b	 80
+ulezp				c9b6	 80
+irq2_jmp			2200	 f0
+_ad_write.4			de24	 80
+getA_ugt			c8db	 80
+_strncat.3			c5dd	 80
+	.x_00115		c5ff	 80
+	.x_00114		c5f9	 80
+	.out			c615	 80
+	.x_00113		c5eb	 80
+	.cpylp			c5ed	 80
+	.endlp			c5e1	 80
+mapbat_x			2700	 f8
+LL16				b13e	 84
+scroll_top			2726	 f8
+scroll_xl			2716	 f8
+__plw				0000	 f0
+SUPPORT_MOUSE			0001	 f0
+_cd_read_sector			dec7	 80
+s_idx				2732	 f8
+_hsync_hndl			c255	 80
+	.r2			c29f	 80
+	.out			c2a5	 80
+	.r1			c26d	 80
+mousinit			db8b	 80
+SIZE_16x16			0000	 f0
+__sp				2000	 f8
+lib2_bm_unlock			b257	 81
+GRP_NOFILL			0000	 f0
+_init_go			c130	 80
+	.fntld			c15a	 80
+scr_w				2245	 f8
+__expr				2010	 f8
+hook				cc5f	 80
+smul_no_invert_secondary	ca48	 80
+joyena				2227	 f0
+LL53				a5df	 85
+	.x01616			a5f3	 85
+lt				c869	 80
+_rndn1				277b	 f8
+VI_FLOOD			000a	 f0
+color_data_l			0404	 f0
+__ldw_s				0000	 f0
+_strcat.2			c5bc	 80
+	.x_00109		c5c6	 80
+	.endlp			c5bc	 80
+joyhook				2686	 f8
+LL17				b13e	 84
+_ad_play.4			de2a	 80
+_vsync_hndl			c1ef	 80
+	.out			c254	 80
+	.l3			c251	 80
+	.skip_psg		c247	 80
+	.lclmm			c22a	 80
+	.lclss			c22e	 80
+	.lcltt			c232	 80
+	.l2			c1f2	 80
+	.l1			c1ef	 80
+init_psg			c597	 80
+	.clear			c59f	 80
+vload				0000	 f0
+ac_shftreg_0			1ae0	 f0
+ugezp				c961	 80
+ram_hsync_hndl			26ce	 f8
+_ad_trans.4			de02	 80
+SIZE_32x64			0031	 f0
+__ldd_s_b			0000	 f0
+ugtzp				c93c	 80
+	.true			c942	 80
+	.false			c94d	 80
+	.test_lo		c946	 80
+BATVAL				0000	 f0
+__ldwp				0000	 f0
+LL54				a775	 85
+_peek				db0d	 80
+umul				ca65	 80
+ne				c967	 80
+	.ne_endeq		c973	 80
+	.ne_endne		c984	 80
+_rndn2				277c	 f8
+maptilebank			26ef	 f8
+scr_height			2710	 f8
+setvinc				0000	 f0
+_bm_create.2			d9e7	 80
+ad_reset			e030	 f0
+setvec				0000	 f0
+JOY_II				0002	 f0
+color_data			0404	 f0
+__stw				0000	 f0
+LL18				b11c	 84
+LL20				af1a	 84
+	.x01151			af22	 84
+cdplay_end_h			29be	 f8
+PSG_OFF				0001	 f0
+ac_cntrol1			1a09	 f0
+video_data			0002	 f0
+msvert				29bb	 f8
+IRQ1				0001	 f0
+cdtemp_addr			29ca	 f8
+lib2_bm_delete			b010	 81
+	.out			b06e	 81
+_bm_size			d8c9	 80
+	.ok			d8f3	 80
+	.err1			d8ff	 80
+	.err			d901	 80
+ac_shftreg_1			1ae1	 f0
+__popw				0000	 f0
+umod				cb63	 80
+	.smod_end		cb90	 80
+	.smod_begin		cb78	 80
+ge				c951	 80
+JOY_BITLT			0007	 f0
+color_ctrl			0400	 f0
+__ptr				200b	 f8
+_avg				31fa	 f8
+sdiv				cac9	 80
+JOY_TYPE6			0050	 f0
+spr_pattern			0000	 f0
+psg_pan				0805	 f0
+__pea_s				0000	 f0
+_pokew.2			db04	 80
+lib2_gfx_point.2		af0d	 81
+	.l4			af4f	 81
+	.l3			af47	 81
+	.l2			af2a	 81
+	.l1			af22	 81
+ult				c892	 80
+spr_pri				0000	 f0
+LL55				a775	 85
+_vram_addr.2			cf45	 80
+umul16				ca89	 80
+	.l2			caac	 80
+	.l1			ca95	 80
+_rcr_off			c338	 80
+ex_dotmod			e06c	 f0
+_incw				0000	 f0
+__ldd_w				0000	 f0
+__pushw				0000	 f0
+_put_digit.sub			cde8	 80
+	.l1			cdef	 80
+NMI				0003	 f0
+_srand32.2			db76	 80
+PSG_INIT			0002	 f0
+mulu16				e0c3	 f0
+JOY_BITI			0000	 f0
+_cl				20fc	 f0
+LL21				b007	 84
+	.x01184			b019	 84
+	.x01182			b00f	 84
+LL19				af23	 84
+	.x01161			af6c	 84
+	.x01154			af35	 84
+	.x01152			af2b	 84
+_farpeekw.fast			db41	 80
+cmp_ok				c8ca	 80
+VI_LINE				0007	 f0
+_bm_delete			d9b1	 80
+IRQ2				0000	 f0
+_min				31f8	 f8
+_show_startpos			a684	 84
+_put_digit.2			cddd	 80
+disp_cr				268e	 f8
+VI_GETADRS			0003	 f0
+cd_port				1800	 f0
+ma_div16s			e0c6	 f0
+ac_shftreg_2			1ae2	 f0
+__temp				2003	 f8
+_bm_rawread			d90c	 80
+	.err			d929	 80
+_mov32.2			d691	 80
+_put_digit.main			cde2	 80
+__tstw				0000	 f0
+maptileaddr			26f0	 f8
+_set_font_addr			cd0a	 80
+clock_ss			2691	 f8
+cd_base				e006	 f0
+ARG_ABS				0003	 f0
+__stwi_s			0000	 f0
+__ldbp				0000	 f0
+LL56				aaba	 85
+	.x01792			aae1	 85
+	.x01787			aacd	 85
+lib2_bm_getptr.2		afba	 81
+	.empty			b005	 81
+	.x2			b006	 81
+_div32.2			d6fd	 80
+cd_seek				e00c	 f0
+STANDARD_CD			0001	 f0
+__phb				0000	 f0
+_fix_offset			abdf	 84
+	.x01045			ac31	 84
+	.x01036			abf3	 84
+vdc_blur			2711	 f8
+build_disp_list			aa8e	 81
+	.x2			ab54	 81
+	.x1			ab49	 81
+	.t5			ab41	 81
+	.t3			ab2c	 81
+	.t2			ab09	 81
+	.t1			ab04	 81
+	.t4			ab3d	 81
+	.l3			aaf4	 81
+	.check_list		ab48	 81
+	.l2			aae1	 81
+	.l1			aaa2	 81
+	.l0			aaa0	 81
+ex_dspoff			e099	 f0
+ex_bgon				e08a	 f0
+SIZE_32x32			0011	 f0
+__aslws				0000	 f0
+_adjust				31e1	 f8
+_put_raw.2			ce51	 80
+ex_setwrt			e0ae	 f0
+_cmpw				0000	 f0
+LL22				afac	 84
+	.x01172			afbe	 84
+	.x01170			afb4	 84
+_load_default_font.1		cd4e	 80
+	.x_00239		cd5b	 80
+scroll_yh			2722	 f8
+sprc_ptr			2223	 f0
+LIB2_BANK			0001	 f0
+JOY_BITRUN			0003	 f0
+__fptr				200e	 f8
+_put_digit.3			cdd2	 80
+uge				c95c	 80
+BGMAP_SIZE_64x64		0005	 f0
+_load_palette.3			c390	 80
+sprxh				221a	 f0
+JOY_BITIII			0000	 f0
+scroll_disable			0000	 f0
+_stw				0000	 f0
+ac_shftreg_3			1ae3	 f0
+_show_offset			a738	 84
+ex_joysns			e063	 f0
+bm_write			e051	 f0
+ARG_STRING			0005	 f0
+CD_LEADOUT			00c0	 f0
+_set_tile_data.1		d0a3	 80
+joytrg6				2698	 f8
+set_intvec			e05d	 f0
+LL57				a924	 85
+	.x01732			a938	 85
+_set_font_pal			ccea	 80
+_boot				4070	 80
+JOY_I				0001	 f0
+_bm_format			d840	 80
+	.setsz			d870	 80
+	.l2			d85e	 80
+	.l1			d847	 80
+	.ok			d875	 80
+cderr_override			4028	 80
+ma_sqrt				e0cc	 f0
+aslw				0000	 f0
+psg_ctrl			0804	 f0
+video_reg_h			0001	 f0
+_get_map_height			d09c	 80
+_put_raw.3			ce46	 80
+bm_read				e04e	 f0
+joy				2228	 f0
+LL23				affe	 84
+	.x01181			b006	 84
+_bm_check			d7fe	 80
+	.err			d81b	 80
+_put_char.main			ce28	 80
+	.l1			ce35	 80
+_load_default_font.2		cd5b	 80
+	.l3			cd84	 80
+	.l2			cd71	 80
+	.l1			cd6a	 80
+s_list				276c	 f8
+LIB1_BANK			0000	 f0
+_bm_write.4			d9d5	 80
+incw				0000	 f0
+delay14				b4d8	 81
+ARG_NONE			0000	 f0
+_spr_hide			d23c	 80
+	.l1			d24d	 80
+	.l2			d24e	 80
+unmap_data			c372	 80
+ma_div16u			e0c9	 f0
+_disp_off			de3a	 80
+lib2_bm_read.4			b06f	 81
+	.l2			b09e	 81
+	.l1			b093	 81
+	.ok			b0a6	 81
+	.x1			b0b2	 81
+	.x2			b0bd	 81
+_map_calc_tile_addr		d4e9	 80
+	.l2			d50b	 80
+	.l1			d4f8	 80
+ex_sprdma			e09f	 f0
+stb				0000	 f0
+LL60				b12c	 85
+	.x02034			b153	 85
+	.x02029			b13f	 85
+LL58				aaba	 85
+gfx_bittbl			af53	 81
+load_map_exit			a839	 81
+_set_xres.1			d57f	 80
+_line_error			29b2	 f8
+_cls				ccbe	 80
+ex_imode			e072	 f0
+__subwi				0000	 f0
+__arg_idx			2002	 f8
+__stack				2000	 f8
+scr_width			270f	 f8
+LL24				b2d6	 84
+cdplay_end_l			29c0	 f8
+ARG_ABSOLUTE			0003	 f0
+psg_wavebuf			0806	 f0
+VI_GWINDOW			000c	 f0
+PSG_ENV				0006	 f0
+ex_spron			e090	 f0
+ad_stop				e042	 f0
+cd_pcmrd			e02a	 f0
+_clear_joy_events		dabb	 80
+	.l2			dad8	 80
+	.l1			dabf	 80
+clock_mm			2690	 f8
+cdtemp_savbnk80			29c9	 f8
+_clock_ss			dae9	 80
+VI_PAINT			000b	 f0
+VI_POINT			0006	 f0
+bm_files			e057	 f0
+rndseed				2249	 f0
+cdtemp_bank			29c7	 f8
+_load_map.6			d16d	 80
+	.l7			d217	 80
+	.x_00321		d1e7	 80
+	.l4			d1db	 80
+	.l5			d1fa	 80
+	.l3			d1c7	 80
+	.x_00315		d19f	 80
+	.l1			d193	 80
+	.l2			d1b2	 80
+	.x_00313		d183	 80
+	.l6			d20f	 80
+	.x_00311		d178	 80
+_load_tile			d125	 80
+	.l1			d154	 80
+_set_tile_data.3		d0db	 80
+	.l1			d115	 80
+	.l2			d116	 80
+_put_number.3			ce67	 80
+ex_scrmod			e06f	 f0
+init_satb			0000	 f0
+set_sprpal			0000	 f0
+cmpw				0000	 f0
+_padhold			31d2	 f8
+LL61				aaf1	 85
+	.x01799			ab05	 85
+LL59				aaba	 85
+mouspos				da7f	 80
+ex_satclr			e0a2	 f0
+BGMAP_SIZE_64x32		0001	 f0
+_set_xres.2			d583	 80
+lbcs				0000	 f0
+__orwi				0000	 f0
+_bss_end			31ff	 f0
+PSG_BANK			0003	 f0
+_dh				20ff	 f0
+_bx				20fa	 f0
+LL25				b4be	 84
+cdplay_end_m			29bf	 f8
+ex_vsync			e07b	 f0
+timer_jmp			2204	 f0
+CD_TRACK			0080	 f0
+_put_hex.main			ce9b	 80
+	.h4			cecd	 80
+	.h3			ced6	 80
+	.h2			cedd	 80
+	.h1			cee6	 80
+	.tbl			cec5	 80
+	.l2			cebd	 80
+	.l1			ceb2	 80
+	.l3			cec4	 80
+ultzp				c913	 80
+	.true			c919	 80
+	.false			c924	 80
+	.test_lo		c91d	 80
+init_vdc			c478	 80
+	.l3			c503	 80
+	.l2			c502	 80
+	.l1			c481	 80
+	.table			c526	 80
+cderr_overlay_num		4029	 80
+ex_joyrep			e066	 f0
+_spr_pri			d31e	 80
+	.l1			d32a	 80
+HDR				0000	 f0
+maptilebase			26f2	 f8
+JOY_DOWN			0040	 f0
+__plb				0000	 f0
+_add_3digit			a000	 84
+_bm_unlock			da2f	 80
+_put_number.4			ce79	 80
+LL62				b12c	 85
+nmi_jmp				2206	 f0
+psgport				0800	 f0
+__addw_s			0000	 f0
+__andw				0000	 f0
+_load_default_font		cd4c	 80
+load_map_next_line		a8d0	 81
+	.l5			a95d	 81
+	.l4			a93e	 81
+	.l2			a8fd	 81
+	.l3			a90e	 81
+	.l1			a8fb	 81
+cd_boot				e000	 f0
+NO_FLIP				0000	 f0
+_pad				31d1	 f8
+load_bat			c3a2	 80
+load_palette			c390	 80
+PSG_TRACK			0004	 f0
+cd_contnts			e024	 f0
+ac_data1			1a00	 f0
+_di				20f0	 f0
+__lea_s				0000	 f0
+LL26				b313	 84
+_put_hex.3			ce96	 80
+scroll_cr			272e	 f8
+scroll_yl			271e	 f8
+VI_BOX				0008	 f0
+_clock_mm			dae4	 80
+_get_font_addr			cd34	 80
+__sign				2016	 f8
+font_1				6000	 81
+CONST_BANK			0002	 f0
+_joyold				da51	 80
+sprxl				2219	 f0
+bg_x1				220c	 f0
+FLIP_X_MASK			0008	 f0
+__ldb_p				0000	 f0
+LL63				b12c	 85
+cdplay_end_ctl			29bd	 f8
+_com32.1			d6fe	 80
+	.l1			d704	 80
+hds				2713	 f8
+JOY_BITIV			0001	 f0
+maplibfunc			0000	 f0
+psg_mainvol			0801	 f0
+_mouse_exists			da61	 80
+ex_rnd				e0ba	 f0
+video_reg_l			0000	 f0
+_limit_startpos			a8a0	 84
+	.x00911			a8bc	 84
+SIZE_MASK			0031	 f0
+LL27				b338	 84
+	.x01309			b34c	 84
+_poke.2				db00	 80
+_spr_hide.sub			d257	 80
+_put_hex.4			ce8b	 80
+_put.vram			ce06	 80
+__rcr_off			c33c	 80
+font_2				6300	 81
+ex_sprput			e0a5	 f0
+__extw				0000	 f0
+__stwps				0000	 f0
+cd_stat				e01b	 f0
+VSYNC				0004	 f0
+bram_unlock			1807	 f0
+CDPLAY_ENDOFDISC		0000	 f0
+__spr_ptr			2018	 f8
+load_map			c3b4	 80
+	.l1			c3cd	 80
+VI_STRTADR			0002	 f0
+sprnh				221c	 f0
+bg_x2				220e	 f0
+_timing				31e4	 f8
+_cd_playmsf.7			dc1e	 80
+	.startmsf		dc4a	 80
+	.endmsf			dc2c	 80
+CDFADE_PCM2			000c	 f0
+_mouse_x			da72	 80
+_get_font_pal			cd2a	 80
+load_map_init			a843	 81
+	.l3			a899	 81
+	.l2			a882	 81
+	.l1			a852	 81
+map_data			c350	 80
+	.l1			c361	 80
+ex_sproff			e093	 f0
+cd_overlay			dce3	 80
+_cd_playtrk.3			dbde	 80
+	.starttrk		dc0d	 80
+	.endofdisc		dbf0	 80
+	.endtrk			dbfb	 80
+scroll_bottom			272a	 f8
+vec_on				0000	 f0
+LL64				ab16	 85
+	.x01806			ab2a	 85
+ovlarray			6000	 83
+VADDR_INC_64			0010	 f0
+__negw				0000	 f0
